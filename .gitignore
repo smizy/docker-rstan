@@ -1,0 +1,8 @@
+.DS_Store
+*.pdf
+*.rds
+*.ipynb_checkpoints
+*.bak
+*.tmp
+tmp
+var
